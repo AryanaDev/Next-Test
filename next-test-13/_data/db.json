@@ -1,0 +1,25 @@
+{
+  "tickets" : [
+    {
+      "id": "1",
+      "title": "Fix the footer links please",
+      "body": "Lorem ispum Triforce sit amet, Links Hyruleus",
+      "priority": "low",
+      "user_email": "aryanorasteh7@gmail.com"
+    },
+    {
+      "id": "2",
+      "title": "Add in a new stylesheet",
+      "body": "Lorem ispum Triforce sit amet, Links Hyruleus",
+      "priority": "medium",
+      "user_email": "aryanorasteh7@gmail.com"
+    },
+    {
+      "id": "3",
+      "title": "Fix the Downloads links",
+      "body": "Lorem ispum Triforce sit amet, Links Hyruleus",
+      "priority": "high",
+      "user_email": "aryanorasteh7@gmail.com"
+    }
+  ]
+}
